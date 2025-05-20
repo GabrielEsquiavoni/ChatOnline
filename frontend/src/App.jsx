@@ -27,7 +27,7 @@ const App = () => {
   );
 
   return (
-    <div>
+    <div date-theme="retro">
       <Navbar />
       <Toaster position="top-right" />
 
